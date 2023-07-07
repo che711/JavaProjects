@@ -1,0 +1,3 @@
+# JavaProjects
+
+Just for fun)
