@@ -6,7 +6,7 @@ public class Time {
 
         // Выполняем некоторую задачу, для примера просто делаем паузу
         try {
-            TimeUnit.SECONDS.sleep(10);
+            TimeUnit.SECONDS.sleep(5);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
