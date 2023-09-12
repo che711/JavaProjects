@@ -1,5 +1,6 @@
 import java.util.concurrent.TimeUnit;
 
+
 public class Time {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); // Добавленная строка
@@ -20,3 +21,4 @@ public class Time {
         System.out.println("Прошло " + elapsedTime + " миллисекунд.");
     }
 }
+
